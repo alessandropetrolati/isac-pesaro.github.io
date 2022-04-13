@@ -6,9 +6,9 @@ body{
 	font-weight:300;
 	line-height:30px;
 	font-family: 'Open Sans', sans-serif;
-	background-color:#000;
+	background-color:#002533;
 	margin-top:50px;
-	color:#000;
+	color:#fff;
 }
 
 
@@ -38,7 +38,7 @@ img{
         margin-left: auto;
         margin-right: auto;
         height: 3px;
-        background-color:#F9392B;
+        background-color:#002533;
         opcaity: 0.5;
     }
 
@@ -130,7 +130,7 @@ icon color: #a1a1a1;
 
 /*Top Navbar*/
 .navbar-inverse {
-    background-color: #000;
+    background-color: #002533;
   border-color: transparent;
   padding:10px 0;
 }
@@ -150,7 +150,7 @@ ul.navbar-nav li a{
 }
 
 .is-sticky .main-menu .navbar-inverse{
-	background:#F9392B;
+	background:#002533;
 	transition:0.9s;
 	padding:15px 0;
 }
@@ -185,7 +185,7 @@ ul.navbar-nav li a{
 .btn.btn-learn {
   background: #F9392B none repeat scroll 0 0;
   border-radius: 50px;
-  color: #fff;
+  color: #002533;
   font-weight: 500;
   padding: 15px 30px;
   text-align: center;
@@ -197,7 +197,7 @@ ul.navbar-nav li a{
 
 /* About */
 .site-padding{
-	background: #fff;
+	background: #002533;
 	padding:70px 0;
 }
 
@@ -213,7 +213,7 @@ ul.navbar-nav li a{
   border-radius: 50px;
   -moz-border-radius:50px;
   -webkit-border-radius:50px;
-  color: #fff;
+  color: #002533;
   font-size: 16px;
   font-weight: 600;
   padding: 9px 21px;
@@ -235,13 +235,13 @@ ul.navbar-nav li a{
 .award-win{
 	background:#00bcd4;
 	padding:60px 10px;
-	color:#fff;
+	color:#002533;
 	text-align:center;
 }
 
 .trophy i{
 	font-size:50px;
-	color:#fff;
+	color:#002533;
 }
 
 .progress-bar-custom{
@@ -288,14 +288,21 @@ ul.navbar-nav li a{
 	margin-bottom:50px;
 }
 
-#keynotes{
-    background: #fff;
+#contact{
+    background: #000;
 }
 
+#history{
+    background: #000;
+}
+
+/*#keynotes{*/
+/*    background: #111111;*/
+/*}*/
 
 
 #features{
-	background: #fff;
+	background: #002533;
 }
 
 .feature-icon i{
@@ -325,49 +332,49 @@ ul.navbar-nav li a{
 }
 
 #timeline0 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline1 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline2 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline3 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline4 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline5 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline6 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 #timeline7 {
-    background-color: #fff;
+    background-color: #002533;
     font-family: Helvetica, sans-serif;
 }
 
 .timeline {
     width: 100%;
     max-width: 2400px;
-    background: #fff;
+    background: #002533;
     padding: 100px 50px;
     position: relative;
     box-shadow: 0.5rem 0.5rem 2rem 0 rgba(0, 0, 0, 0.2);
@@ -406,7 +413,7 @@ ul.navbar-nav li a{
     width: 20px;
     height: 20px;
     border: 4px solid salmon;
-    background-color: #fff;
+    background-color: #002533;
     border-radius: 100%;
     border-color: red;
     top: 15%;
@@ -503,7 +510,7 @@ ul.navbar-nav li a{
 	background:#00bcd4;
 	opacity:0.9;
 	text-align:center;
-	color:#fff;
+	color:#002533;
 	display:none;
 	transition:0.2s;
 }
@@ -544,7 +551,7 @@ ul.navbar-nav li a{
 	background-color:#90A3B3;
 	background:url(../img/testimonials-bg.jpg) 50% 0 repeat fixed;
 	min-height:570px;
-	color:#fff;
+	color:#002533;
 	text-rendering:optimizelegiblity;
 	-webkit-font-smoothing:antialiased;
 	padding:70px 0;
@@ -606,7 +613,7 @@ ul.navbar-nav li a{
 
 .carousel-indicators li {
  background-color: rgb( 199, 199, 199 );
-  border: 1px solid #fff;
+  border: 1px solid #002533;
   border-radius: 10px;
   cursor: pointer;
   display: inline-block;
@@ -670,7 +677,7 @@ ul.projects li {
 }
 
 .copyright{
-	background:#F9392B;
+	background:#002533;
 	padding:10px 0;
 	color:#fff;
 }
@@ -698,7 +705,7 @@ ul.projects li {
 	width:35px;
 	background:#757575;
 	text-align:center;
-	color:#ffffff;
+	color:#002533;
 	line-height:35px;
 	font-size:18px;
 	border-radius:500px;
@@ -726,7 +733,7 @@ ul.projects li {
 .btn.btn-subscribe {
   background: #f9392b none repeat scroll 0 0;
   border-radius: 0;
-  color: #fff;
+  color: #002533;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   height: 45px;
@@ -742,7 +749,7 @@ ul.projects li {
 /*Pricing*/
 .pricing{
 	padding:70px 0;
-    background:#fff;
+    background:#002533;
 }
 		.panel.price,
 		.panel.price>.panel-heading{
@@ -777,7 +784,7 @@ ul.projects li {
 		}
 		
 		.price .panel-footer {
-			color: #fff;
+			color: #002533;
 			border-bottom:0px;
 			background-color:  rgba(0,0,0, .1);
 			box-shadow: 0px 3px 0px rgba(0,0,0, .3);
@@ -793,13 +800,13 @@ ul.projects li {
 	
 		
 		.price.panel-green>.panel-heading {
-			color: #fff;
+			color: #002533;
 			background-color: #07a7bb;
 		}
 		
 			
 		.price.panel-green>.panel-body {
-			color: #fff;
+			color: #002533;
 			background-color: #00bcd4;
 		}
 		
@@ -815,13 +822,13 @@ ul.projects li {
 		
 	
 		.price.panel-grey>.panel-heading {
-			color: #fff;
+			color: #002533;
 			background-color: #6D6D6D;
 		}
 		
 			
 		.price.panel-grey>.panel-body {
-			color: #fff;
+			color: #002533;
 			background-color: #808080;
 		}
 		
@@ -845,7 +852,7 @@ ul.projects li {
 		}
 			
 		.price.panel-white>.panel-body {
-			color: #fff;
+			color: #002533;
 			background-color: #dfdfdf;
 		}
 				
@@ -866,7 +873,7 @@ ul.projects li {
 		.btn.btn-lg.btn-block.btn-success {
 		  background: #00bcd4 none repeat scroll 0 0;
 		  border: 1px solid #00bcd4;
-		  color: #fff;
+		  color: #002533;
 		  font-size: 16px;
 		  font-weight: 600;
 		}
@@ -874,7 +881,7 @@ ul.projects li {
 		.btn.btn-lg.btn-block.btn-primary {
 			background: #6d6d6d none repeat scroll 0 0;
 			border: 1px solid #6d6d6d;
-			color: #fff;
+			color: #002533;
 			font-size: 16px;
 			font-weight: 600;
 		}
@@ -1022,7 +1029,7 @@ ul.recent li h6 a{
 
 .widget ul.tags li a:hover {
 	text-decoration:none;
-	color:#fff;
+	color:#002533;
 }
 
 aside .widgetheading {
@@ -1051,7 +1058,7 @@ aside .widgetheading {
 
 .widget ul.tags li a:hover {
   background: #00bcd4 none repeat scroll 0 0;
-  color: #ffffff;
+  color: #002533;
   padding: 5px 10px;
 }
 
@@ -1073,18 +1080,18 @@ aside .widgetheading {
 }
 
 #pagination a:hover {
-    color: #fff;
+    color: #002533;
 	text-decoration:none;
 }
 
 #pagination span.current {
     background: #333;
-    color: #fff;
+    color: #002533;
     font-weight: bold;
 }
 
 #pagination a:hover{
-  color: #fff;
+  color: #002533;
   background:#00bcd4;
 }
 
@@ -1182,7 +1189,7 @@ form#commentform textarea {
 
 .btn.btn-theme.margintop10 {
   background: #f9392b;
-  color:#fff;
+  color:#002533;
 }
 
 
@@ -1224,7 +1231,7 @@ form#commentform textarea {
 /*FAQ*/
 #faq{
 	padding:70px 0;
-	background:#fff;
+	background:#002533;
 }
 
 .faqHeader {
@@ -1264,7 +1271,7 @@ form#commentform textarea {
 	}
 	
 	.panel {
-	  background-color: #fff;
+	  background-color: #002533;
 	  border: 1px solid #ddd;
 	  border-radius: 0px;
 	  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
@@ -1272,14 +1279,14 @@ form#commentform textarea {
 	}
 	
 	.panel-default > .panel-heading {
-	  background-color: #fff;
+	  background-color: #002533;
 	  border-color: #ddd;
 	  color: #414141;
 	}
 /*FAQ*/
 
 .navbar-toggle {
-  background-color: #fff;
+  background-color: #002533;
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
@@ -1287,7 +1294,7 @@ form#commentform textarea {
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar, .navbar-inverse .navbar-toggle:focus .icon-bar {
-    background-color: #FFF;
+    background-color: #002533;
 }
 
 #contact-us{
