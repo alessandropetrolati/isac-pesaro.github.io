@@ -91,7 +91,7 @@ icon color: #a1a1a1;
 
 /*BUTTONS*/
 .button {
-    background-color: #F9392B; /* RED */
+    background-color: #fff; /* RED */
     border: none;
     color: white;
     padding: 20px;
@@ -150,8 +150,8 @@ ul.navbar-nav li a{
 }
 
 .is-sticky .main-menu .navbar-inverse{
-	background:#002533;
-	transition:0.9s;
+	background:#000;
+	transition:2.0s;
 	padding:15px 0;
 }
 
@@ -174,7 +174,7 @@ ul.navbar-nav li a{
 }
 
 .slider-btn {
-  background: #F9392B;
+  background: #fff;
   margin-top: 21px;
 }
 
@@ -183,7 +183,7 @@ ul.navbar-nav li a{
 }
 
 .btn.btn-learn {
-  background: #F9392B none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   border-radius: 50px;
   color: #002533;
   font-weight: 500;
@@ -202,14 +202,14 @@ ul.navbar-nav li a{
 }
 
 .circolare {
-	width:200px;
-	height:200px;
+	width:160px;
+	height:160px;
 /*	border-radius:100px;*/
  
 }
 
 .btn.btn-read-more {
-  background: #f9392b none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   border-radius: 50px;
   -moz-border-radius:50px;
   -webkit-border-radius:50px;
@@ -281,7 +281,7 @@ ul.navbar-nav li a{
 }
 
 .title h3 span{
-	color:#f9392b;
+	color:#fff;
 }
 
 .title{
@@ -731,7 +731,7 @@ ul.projects li {
 }
 
 .btn.btn-subscribe {
-  background: #f9392b none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   border-radius: 0;
   color: #002533;
   font-family: 'Montserrat', sans-serif;
@@ -1188,7 +1188,7 @@ form#commentform textarea {
 }
 
 .btn.btn-theme.margintop10 {
-  background: #f9392b;
+  background: #fff;
   color:#002533;
 }
 
@@ -1286,7 +1286,7 @@ form#commentform textarea {
 /*FAQ*/
 
 .navbar-toggle {
-  background-color: #002533;
+  background-color: #fff;
 }
 
 .navbar-inverse .navbar-toggle .icon-bar {
@@ -1294,7 +1294,7 @@ form#commentform textarea {
 }
 
 .navbar-inverse .navbar-toggle:hover .icon-bar, .navbar-inverse .navbar-toggle:focus .icon-bar {
-    background-color: #002533;
+    background-color: #fff;
 }
 
 #contact-us{
