@@ -1,2 +1,2 @@
-# isac22
+ISAC Pesaro
 International Sonosfera Ambisonics Competition
